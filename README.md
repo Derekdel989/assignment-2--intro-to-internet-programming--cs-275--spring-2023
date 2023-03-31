@@ -90,7 +90,39 @@ As mentioned in the introduction, you must employ Gulp as the task runner with w
 1. Prepare the Gulp tracks *before* implementing this project. Doing this project in reverse defeats the role of Gulp in this assignment
 2. The included CSS and JavaScript files contain errors and superfluous white space, on purpose. As you stand up the Gulp tracks, you can verify whether your linters and EditorConfig work, before you implement the project.
 3. Before issuing your pull request, clone your final repo to a different folder, or even a different machine, then run your development and production tracks in Gulp. This will ensure that what you’ve cloned is precisely what is submitted in your pull request.
-
+4. Must use Transitions in CSS (Example=> Transition: 250ms;)
+5. Arrows are fixed (do not move), have a bounding box
+6. Stacking context, Z-indexes
+7. Create a container of W:649 H:480
+8. Use Arrays possibly
+9. Use Positioning possibly
+10. JSON is the driver
+11. For Loop
+12. Add Listener that listens to clicks for Arrows
+13. You need four Listeners (Two for Keyboard input and two for clicking arrows)
+14. You can have a scroll bar in the container going up and down but no scroll bar going left to right
+15. Use div => H(value) => img => p
+16. Images are inline (inline = Text), they sit next to each other. Images behavior inline by default
+17. How to deal with overflow?
+18. padding can not be negative, but margins can be
+19. Margins: Left = -negative #, right = +positive #
+20. Need a container
+21. Z-index comes to play for postioning
+22. Use variables if you want to
+23. z-index : var(--carousel-viewport) z-index: (--carousel-slides)
+24. In CSS, define an element called :root, put on the variables into it
+25. Use Flexbox, render by position, to render images
+26. Roll images together
+27. Least amount of pixels for an overflow: 1 pixel, math is important
+28. Use this compound in CSS to make it look the same: Class
+29. inline-block , flex, or width are necessary to have (Have one of them)
+30. Do not use position: static, use position: fixed
+31. Use .container { display: flex;}
+32. Flex fits everything together without having to add scroll bars
+33. I will use flex justify-content: center
+34. Use the CSS Property: position (Absolute) for the arrows
+35. USE THE DEV TOOLS TO DOUBLE CHECK (COMMAND+SHIFT+C)
+36. Z-Index to hide behind objects: You can also use negative numbers
 ---
 
 ## ❖・Due・❖
